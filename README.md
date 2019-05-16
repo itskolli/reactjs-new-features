@@ -10,3 +10,5 @@
 - Easier access to context in class components with contextType - 16.6
 - React hooks useContext, useEffect, useState - 16.8
 - Additional hooks useReducer, useCallback, useMemo, useRef - 16.8
+
+<img src="https://github.com/itskolli/reactjs-new-features/raw/master/images/reactjs_features.PNG"/>
